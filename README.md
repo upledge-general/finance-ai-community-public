@@ -8,7 +8,7 @@ To democratize AI in finance through practical, hands-on Python notebooks that s
 ## 📚 Notebook Categories
 
 ### 🔐 **Data Privacy**
-- `data-anonymization-masking.ipynb` - Safely anonymize sensitive data for LLM use
+- [data-anonymization-masking.ipynb](https://github.com/upledge-general/finance-ai-community-public/blob/main/data-anonymization-masking.ipynb) — Safely anonymize sensitive data for LLM use
 
 ### 📊 **Data Analysis**
 - `data-summarizer-insights.ipynb` - Summarize datasets with AI-powered insights
