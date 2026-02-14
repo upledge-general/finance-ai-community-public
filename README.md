@@ -11,7 +11,7 @@ To democratize AI in finance through practical, hands-on Python notebooks that s
 - [data-anonymization-masking.ipynb](https://github.com/upledge-general/finance-ai-community-public/blob/main/data-anonymization-masking.ipynb) — Safely anonymize sensitive data for LLM use
 
 ### 📊 **Data Analysis**
-- [data-summarizer-insights.ipynb] (https://github.com/upledge-general/finance-ai-community-public/blob/main/data_summarizer_insights.ipynb) - Summarize datasets with AI-powered insights
+- [data-summarizer-insights.ipynb](https://github.com/upledge-general/finance-ai-community-public/blob/main/data_summarizer_insights.ipynb) — Summarize datasets with AI-powered insights
 
 ### 📈 **Financial Analysis**
 - `automated-ratio-analysis.ipynb` - Compute financial ratios with benchmarking
