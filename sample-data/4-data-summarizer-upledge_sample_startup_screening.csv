@@ -1,0 +1,9 @@
+startup,date,sector,country,users,revenue_usd,monthly_burn_usd,runway_months,growth_rate_users
+PayFlow,2025-10-01,Fintech,MY,12000,18000,22000,10,
+PayFlow,2025-11-01,Fintech,MY,15000,24000,23000,9,0.25
+HealthMate,2025-10-01,Healthtech,SG,8000,12000,18000,12,
+HealthMate,2025-11-01,Healthtech,SG,9800,15000,18500,11,0.225
+AgriSense,2025-10-01,Agtech,MY,4200,6000,9000,14,
+AgriSense,2025-11-01,Agtech,MY,5600,8200,9500,13,0.333
+EduLoop,2025-10-01,Edtech,MY,6100,7000,11000,8,
+EduLoop,2025-11-01,Edtech,MY,7600,9000,11200,7,0.246

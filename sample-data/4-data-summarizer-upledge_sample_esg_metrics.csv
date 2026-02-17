@@ -1,0 +1,9 @@
+company,year,pillar,metric,value,unit,scope
+GreenBuild,2024,E,CO2_emissions_tons,12500.0,tons,Scope 1+2
+GreenBuild,2024,E,energy_consumption_mwh,8400.0,MWh,
+GreenBuild,2024,S,female_employee_ratio,0.38,ratio,
+SunHarvest,2024,E,renewable_generation_mwh,52000.0,MWh,
+SunHarvest,2024,G,board_independence_pct,0.55,ratio,
+ClearWater,2024,E,water_withdrawal_m3,310000.0,m3,
+MetroLogix,2024,E,fuel_consumption_liters,180000.0,liters,
+MetroLogix,2024,S,training_hours_per_employee,12.5,hours,
